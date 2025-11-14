@@ -2,6 +2,8 @@
 
 > Production-ready document preprocessor that prepares mixed-format study material for LLM ingestion — text extraction, high-quality OCR (Tesseract), format classification, memory-safe processing, and CPU-optimized parallelism.
 
+<img width="942" height="502" alt="image" src="https://github.com/user-attachments/assets/fbd076a8-25e7-4b03-88eb-105035f9e01e" />
+
 ---
 
 ## 🔥 Highlights
